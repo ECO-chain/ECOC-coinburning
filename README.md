@@ -11,8 +11,8 @@ This smart contract is deployed on Mainnet and 206 million ECOC were sent to it.
 ## How to check
 How can someone check that 206 Million ECOC are unconditionaly locked forever? He must do the following:
 
-- Read the smart contract [source code](https://https://github.com/ECO-chain/ECOC-coinburning/blob/master/lockForever.sol)
-- Complile using a compiler or a tool (for example [remix](https://https://remix.ethereum.org/))
+- Read the smart contract [source code](https://github.com/ECO-chain/ECOC-coinburning/blob/master/lockForever.sol)
+- Complile using a compiler or a tool (for example [remix](https://remix.ethereum.org/))
 - Compiler options: evm-version: byzantium , optimize: true, compiler version  0.4.26 (commit 4563c3fc5d243411d84336c069f7b45891f65c35)
 - example for CLI:
 ```
