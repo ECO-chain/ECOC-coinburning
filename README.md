@@ -8,6 +8,7 @@ This smart contract is deployed on Mainnet and 206 million ECOC were sent to it.
 "sender": "ET7NJT5qZSaebyCMM7tYYwdbpxMBBuCRNr",
 "hash160": "6d36635f9785a3ea63701d1c655a7ffa3e830ed3",
 "address": "72e6f8182b99ecbd7bf49f437ffe1f207d0c62bb"
+&nbsp;
 (B)
   "txid": "dd384cb0c38550ed55360a0cb7ca084520e462b05e3d5e60ec377ee49fbe9535",
   "sender": "ET7NJT5qZSaebyCMM7tYYwdbpxMBBuCRNr",
