@@ -4,10 +4,17 @@
 
 # 智能合约详细信息
 
-“txid”：“df357f171d65c50cf5082efbffd38723321fe64592ca60798fafcea3dcdbe59f7”,
-“sender”：“et7njt5qzsaebycmm7tyywdbpxmbucrnr”，
-“hash160”：“6d366335f9785a3ea63701d1655a7ffa3e830ed3”，
-“address”：“72e6f8182b99ecbd7ff49f437ffe1f17d0c62bb”
+(A)
+"txid": "df357f171d65c0cf5082efbffd38723321fe64592ca60798fafcea3dcdbe59f7",
+"sender": "ET7NJT5qZSaebyCMM7tYYwdbpxMBBuCRNr",
+"hash160": "6d36635f9785a3ea63701d1c655a7ffa3e830ed3",
+"address": "72e6f8182b99ecbd7bf49f437ffe1f207d0c62bb"
+&nbsp;
+(B)
+"txid": "dd384cb0c38550ed55360a0cb7ca084520e462b05e3d5e60ec377ee49fbe9535",
+"sender": "ET7NJT5qZSaebyCMM7tYYwdbpxMBBuCRNr",
+"hash160": "6d36635f9785a3ea63701d1c655a7ffa3e830ed3",
+"address": "ea6763f3c6c4f4ebdffc07909301c41fabe9b7fc"
 
 # 如何检查
 
@@ -22,8 +29,8 @@
     solc--optimize--bin--abi--opcodes--evm版本byzantium lockForever.sol
 ```
 
-- 在 [ECOCHAIN Explorer](https://explorer.ecoc.io/address/72e6f8182b99ecbd7bf49f437ffe1f207d0c62bb) 检查二元制代码或操作码. 字节码和操作码必须完全相同。
-- 在 [ECOCHAIN Explorer](https://explorer.ecoc.io/address/72e6f8182b99ecbd7bf49f437ffe1f207d0c62bb) 查看智能合约的余额一定是的2.06亿
+- 在 ECOCHAIN Explorer [交易A](https://explorer.ecoc.io/address/72e6f8182b99ecbd7bf49f437ffe1f207d0c62bb), [交易B](https://explorer.ecoc.io/address/ea6763f3c6c4f4ebdffc07909301c41fabe9b7fc) 检查二元制代码或操作码. 字节码和操作码必须完全相同。
+- 在 ECOCHAIN Explorer [交易A](https://explorer.ecoc.io/address/72e6f8182b99ecbd7bf49f437ffe1f207d0c62bb), [交易B](https://explorer.ecoc.io/address/ea6763f3c6c4f4ebdffc07909301c41fabe9b7fc) 查看智能合约的余额一定是的2.06亿
 
 # 常见问题解答
 
